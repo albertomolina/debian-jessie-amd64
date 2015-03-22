@@ -1,5 +1,5 @@
 # debian-jessie-amd64
-Minimal debian jessie vagrant box (amd64) for virtualbox provider build with veewee.
+Minimal debian jessie vagrant box (amd64) for virtualbox provider built with veewee.
 
 ## Veewee
 
@@ -22,4 +22,4 @@ Customizations can be made proviously modifying properly preseed.cfg file
 
 Do you want just to use a debian jessie vagrant box? This box is available for download at [https://vagrantcloud.com/albertomolina/boxes/debian-jessie-amd64](https://vagrantcloud.com/albertomolina/boxes/debian-jessie-amd64). You can add it locally with:
 
-    vagrant box add --name albertomolina/debian-jessie-amd64 https://vagrantcloud.com/albertomolina/boxes/debian-jessie-amd64
+    $ vagrant box add --name albertomolina/debian-jessie-amd64 https://vagrantcloud.com/albertomolina/boxes/debian-jessie-amd64
